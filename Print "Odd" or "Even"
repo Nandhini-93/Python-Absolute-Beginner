@@ -1,0 +1,12 @@
+a=int(input())
+if a%2==0:
+    print("Even")
+    if a==0:
+        print("Zero")
+else:
+    print("Odd")
+
+Sample Input :
+2
+Sample Output :
+Even
