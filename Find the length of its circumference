@@ -1,0 +1,9 @@
+A=float(input())
+cir=2*(22*A)
+cir1=cir/7
+print(round(cir1,2))
+
+Sample Input :
+2
+Sample Output :
+12.57
