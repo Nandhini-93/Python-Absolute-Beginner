@@ -1,0 +1,8 @@
+array=list(map(int,input().split()))
+print(min(array))
+
+Sample Input :
+23 1
+
+Sample Output :
+1
