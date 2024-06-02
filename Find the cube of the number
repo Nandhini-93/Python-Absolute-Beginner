@@ -1,0 +1,8 @@
+a=int(input())
+cub=a**3
+print(cube)
+
+Sample Input :
+2
+Sample Output :
+8
