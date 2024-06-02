@@ -1,0 +1,8 @@
+txt=input()
+print(txt[::-1])
+
+Sample Input :
+GUVI
+
+Sample Output :
+IVUG
