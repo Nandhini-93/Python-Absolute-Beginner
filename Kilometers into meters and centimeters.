@@ -1,0 +1,12 @@
+A=int(input())
+B=A*1000      #kilometers in meters *1000
+C=A*100000    #kilometers in centimeters *100000
+print(B)
+print(C)
+
+Sample Input :
+2
+
+Sample Output :
+2000
+200000
