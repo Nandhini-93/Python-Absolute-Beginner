@@ -1,0 +1,9 @@
+a=int(input())
+area=0.25*((3**0.5)*(a**2))   #syntax
+print(round(area,2))
+
+Sample Input :
+20
+
+Sample Output :
+173.21
