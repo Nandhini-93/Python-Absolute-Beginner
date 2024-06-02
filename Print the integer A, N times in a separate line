@@ -1,0 +1,12 @@
+A,N=map(int,input().split())
+for i in range(N):
+    print(A)
+
+Sample Input :
+2 3
+
+
+Sample Output :
+2
+2
+2
