@@ -1,0 +1,10 @@
+P,T,R=map(float,input().split())
+A=P*T*R
+B=A/100
+print(round(B,2))
+
+Sample Input :
+1000 2 5
+
+Sample Output :
+100.00
