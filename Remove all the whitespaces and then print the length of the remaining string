@@ -1,0 +1,10 @@
+a=input()
+list1=a.split()
+new="".join(list1)
+print(len(new))
+
+Sample Input :
+Lorem Ipsum
+
+Sample Output :
+10
