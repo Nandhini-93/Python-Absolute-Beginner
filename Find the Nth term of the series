@@ -1,0 +1,13 @@
+N=int(input())
+if N<0:
+    print("Negative value")
+    if N==0:
+        print("0")
+else:
+    print(N**2)
+
+Sample Input :
+18
+
+Sample Output :
+324
