@@ -1,0 +1,9 @@
+temp=int(input())
+far=1.8*(temp)+32
+print(round(far,2))
+
+Sample Input :
+12
+
+Sample Output :
+53.60
