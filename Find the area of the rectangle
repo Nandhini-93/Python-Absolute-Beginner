@@ -1,0 +1,10 @@
+length=int(input())
+breadth=int(input())
+area=length*breadth
+print(area)
+
+Sample Input :
+2
+3
+Sample Output :
+6
