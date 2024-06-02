@@ -1,0 +1,11 @@
+a=int(input())
+array=[]
+for i in range(1,a+1):
+  array.append(i*9)
+print(*array)
+
+Sample Input :
+3
+
+Sample Output :
+9 18 27
