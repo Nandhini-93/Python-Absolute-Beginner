@@ -1,0 +1,8 @@
+a=input()
+print(" ".join(a))
+
+Sample Input :
+348
+
+Sample Output :
+3 4 8
